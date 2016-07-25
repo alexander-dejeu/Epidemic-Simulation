@@ -28,7 +28,7 @@ At this point we know you must be thking how useful and cool this technology is!
 
 ### Quickly Analyse Situation:
 
-<p align="center"><img src ="IMG_6196.jpg"/></p>
+<p align="center"><img src ="epiSimulation.gif"/></p>
 
 <h3 align="center">License</h3>
 ---
