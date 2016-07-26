@@ -44,7 +44,7 @@ At this point we know you must be thking how useful and cool this technology is!
 -Two
 -Three
 
-<h3 align="center">Whale Simulation Examples</h3>
+<h3 align="center">Epidemic Simulation Example</h3>
 ---
 
 ### Unique Features - Special Settings for Food vs. Whales:
@@ -53,6 +53,15 @@ At this point we know you must be thking how useful and cool this technology is!
 ### Quickly Analyse Situation:
 
 <p align="center"><img src ="EpiSimulation.gif"/></p>
+### What you are seeing:
+Explain what is going on in the above simulation
+
+<h3 align="center">Whale Migration Simulation Example</h3>
+---
+
+### Unique Features - Special Settings for Food vs. Whales:
+<p align="center"><img src ="180 - iPhone 6 Plus.png"/></p>
+
 
 <h3 align="center">License</h3>
 ---
