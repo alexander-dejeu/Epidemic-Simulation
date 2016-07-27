@@ -1,37 +1,30 @@
-# Super Computer Modeling at WPI - Featuring Epidemic & Whale Migration Simulation
+# Super Computer Modeling at Worcester Polytechnic Institute - Featuring Epidemic & Whale Migration Simulation
 <h3 align="center">Epidemic & Whale Migration Simulation, By Alexander Dejeu and Nathan Oldakowskit</h3>
 ---
 
 As high school seniors at the Massachusetts Academy of Math and Science we worked together with Dr. Olson at Worcester Polytechnic Institute (WPI) to create different computer models and learn how to run the programs on WPI’s super computer.  As we concluded our work we decided to share what we created and learned.  Below you will find two of our favorite simulations with demonstrations and descriptions.  We encourage you build upon our work or just check it out.  Lastly, we would love to thank Dr. Olson and Worcester Polytechnic Institute for enabling this endeavor.
 
 ### What is the Epidemic Simulation?
-Give the facts
+<i>Epidemic Simulation</i> is a random walk model for how quickly an epidemic can spread.  In our simulation there is a set population with an incredibly small portion being infected. Then each step every person - represented by a dot - moves by some random direction and limited distance. Then if a healthy person is near an infected person there is a small chance he or she will be infected.  Additionally, for each step there is a chance an infected person will die or will become cured from the sickness.
 
 ### What is the Whale Migration Simulation?
-Facts
+<i>Whale Migration Simulation</i> is another random walk model but in this case we added real life constraints and influences to create a more feasible, insightful, and impactful model.  In our simulation the blue dots represent whales and they start in a general “spawning area” near the bottom left of the area.  The green dots represent food and a whale will only survive a migration cycle if they eat food.  Otherwise the whale will die.  Whales that eat will have a chance of breading another whale for the next cycle.  We simulate a few migration cycles to look at the impact of dying whale food sources and how it impacts whales.
 
-<h3 align="center"> What we learned </h3>
-New SESA (Scientific and Engineering Software Applications) training sessions have been posted on web at: http://www.wpi.edu/webapps/regi/sesa.html .
- 
-*** Introduction to LABVIEW
-March 25, 3:00pm, March 27, 2:00pm, HL234
- 
-*** MATLAB Crash Course
-Lecture 1:   March 23, 12:00pm, March 24, 6:00pm, HL234
-Lecture 2:  March 25, 12:00pm, March 26, 6:00pm, HL234
-Lecture 3:  March 30, 12:00pm, March 31, 6:00pm, HL234
-Lecture 4:  April 1, 12:00pm, April 2, 6:00pm, HL234
- 
-We offer the Matlab Crash Course in a new format: four lectures and more examples and hands-on exercises. The following topics will be covered:
-Lectures 1 and 2: Basics of Matlab
-Lecture 3: Structures, 3D plots, Contours and field plots, Solving ordinary differential equations
-Lecture 4: Animations, Symbolic calculations .
+<h3 align="center"> What We Learned </h3>
+ * Matlab Crash Course
+   * The basics of Matlab
+   * Structures, 3D plots, Contours and field plots, Solving ordinary differential equations
+   * Animations, Symbolic calculations
+ * Submit Jobs to Super Computer
+ * Smaller Mathematical Problems 
+   * Calculate the Value of PI
+ * General Super Computer Practices 
+ * Larger Modeling Jobs
+   * Epidemics
+   * Whale Migrations
 
-I've been learning how to submit jobs and use Matlab, as well as work on some 'pet problems', which have mostly been about calculating pi.
 
-I can send you all of the files that I have if you want them! Now that I think about it, you probably have them in the dropbox, but there might be a few missing.
-
-<h3 align="center">Made Entirly with MatLab <3 </h3>
+<h3 align="center">Made Entirely with MatLab <3 </h3>
 ---
 This entire project is made using MatLab :)  You can find more information about how functions and what not work right in the code!
 
