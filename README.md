@@ -1,4 +1,4 @@
-# Epidemic & Whale-Migration-Simulation
+# Super Computer Modeling at WPI - Featuring Epidemic & Whale Migration Simulation
 <h3 align="center">Epidemic & Whale Migration Simulation, By Alexander Dejeu and Nathan Oldakowskit</h3>
 ---
 
