@@ -2,7 +2,7 @@
 <h3 align="center">Epidemic & Whale Migration Simulation, By Alexander Dejeu and Nathan Oldakowskit</h3>
 ---
 
-We are
+As high school seniors at the Massachusetts Academy of Math and Science we worked together with Dr. Olson at Worcester Polytechnic Institute (WPI) to create different computer models and learn how to run the programs on WPI’s super computer.  As we concluded our work we decided to share what we created and learned.  Below you will find two of our favorite simulations with demonstrations and descriptions.  We encourage you build upon our work or just check it out.  Lastly, we would love to thank Dr. Olson and Worcester Polytechnic Institute for enabling this endeavor.
 
 ### What is the Epidemic Simulation?
 Give the facts
