@@ -38,7 +38,6 @@ Really great example of a random walk.  Take it!  Learn from it, expand on it, a
 
 <h3 align="center">Epidemic Simulation Example</h3>
 ---
-<p align="center"><img src ="180 - iPhone 6 Plus.png"/></p>
 
 ### Quickly Analyse Situation:
 
