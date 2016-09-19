@@ -1,4 +1,4 @@
-# Super Computer Modeling at Worcester Polytechnic Institute - Featuring Epidemic & Whale Migration Simulation
+# Super Computer Modeling at Worcester Polytechnic Institute - Featuring Epidemic Simulation
 <h3 align="center">Epidemic, By Alexander Dejeu and Nathan Oldakowskit</h3>
 ---
 
